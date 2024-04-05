@@ -11,8 +11,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<i class="devicon-html5-plain-wordmark colored" font-size></i>
-<i>height=20 width=20</i>
+<i class="devicon-html5-plain-wordmark colored" font-size=20></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
           
