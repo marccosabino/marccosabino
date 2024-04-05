@@ -11,5 +11,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<i class="devicon-html5-plain-wordmark colored"></i>
 
           
