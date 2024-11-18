@@ -14,17 +14,6 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 ###Snake-game
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 280
-(no subject)
-Inbox
-
-Jhenifer Ferreira Meneses <jhenifer.meneses@sempreceub.com>
-8:36 AM (0 minutes ago)
-to me
 
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
@@ -355,29 +344,3 @@ to me
         (prefers-color-scheme:dark){:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}}.c{shape-rendering:geometricPrecision;rx:2;ry:2;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none
         86500ms linear
         infinite}.c.c0,.c.c1,.c.c2{fill:var(--c1);animation-name:c0}.c.c1,.c.c2{animation-name:c1}.c.c2{animation-name:c2}.c.c3,.c.c4,.c.c5{fill:var(--c1);animation-name:c3}.c.c4,.c.c5{animation-name:c4}.c.c5{animation-name:c5}.c.c6{fill:var(--c2);animation-name:c6}.c.c7{fill:var(--c1);animation-name:c7}.c.c8,.c.c9,.c.ca{fill:var(--c1);animation-name:c8}.c.c9,.c.ca{animation-name:c9}.c.ca{animation-name:ca}.c.cb{fill:var(--c2);animation-name:cb}.c.cc,.c.cd,.c.ce{fill:var(--c1);animation-name:cc}.c.cd,.c.ce{animation-name:cd}.c.ce{animation-name:ce}.c.cf,.c.cg,.c.ch{fill:var(--c1);animation-name:cf}.c.cg,.c.ch{animation-name:cg}.c.ch{animation-name:ch}.c.ci,.c.cj,.c.ck{fill:var(--c1);animation-name:ci}.c.cj,.c.ck{animation-name:cj}.c.ck{animation-name:ck}.c.cl,.c.cm{fill:var(--c2);animation-name:cl}.c.cm{animation-name:cm}.c.cn,.c.co{fill:var(--c1);animation-name:cn}.c.co{animation-name:co}.c.cp{fill:var(--c2);animation-name:cp}.c.cq{fill:var(--c1);animation-name:cq}.c.cr{fill:var(--c2);animation-name:cr}.c.cs,.c.ct{fill:var(--c1);animation-name:cs}.c.ct{animation-name:ct}.c.cu{fill:var(--c3);animation-name:cu}.c.cv,.c.cw{fill:var(--c1);animation-name:cv}.c.cw{animation-name:cw}.c.cx,.c.cy,.c.cz{fill:var(--c1);animation-name:cx}.c.cy,.c.cz{animation-name:cy}.c.cz{animation-name:cz}.c.c10,.c.c11{fill:var(--c2);animation-name:c10}.c.c11{animation-name:c11}.c.c12,.c.c13{fill:var(--c1);animation-name:c12}.c.c13{animation-name:c13}.c.c14,.c.c15{fill:var(--c2);animation-name:c14}.c.c15{animation-name:c15}.c.c16{fill:var(--c1);animation-name:c16}.c.c17,.c.c18{fill:var(--c2);animation-name:c17}.c.c18{animation-name:c18}.c.c19{fill:var(--c1);animation-name:c19}.c.c1a,.c.c1b{fill:var(--c2);animation-name:c1a}.c.c1b{animation-name:c1b}.c.c1c{fill:var(--c1);animation-name:c1c}.c.c1d,.c.c1e{fill:var(--c2);animation-name:c1d}.c.c1e{animation-name:c1e}.c.c1f{fill:var(--c4);animation-name:c1f}.c.c1g{fill:var(--c2);animation-name:c1g}.c.c1h{fill:var(--c3);animation-name:c1h}.c.c1i{fill:var(--c1);animation-name:c1i}.c.c1j{fill:var(--c4);animation-name:c1j}.c.c1k,.c.c1l,.c.c1m{fill:var(--c2);animation-name:c1k}.c.c1l,.c.c1m{animation-name:c1l}.c.c1m{animation-name:c1m}.c.c1n{fill:var(--c1);animation-name:c1n}.c.c1o,.c.c1p,.c.c1q{fill:var(--c2);animation-name:c1o}.c.c1p,.c.c1q{animation-name:c1p}.c.c1q{animation-name:c1q}.c.c1r{fill:var(--c3);animation-name:c1r}.c.c1s,.c.c1t,.c.c1u{fill:var(--c4);animation-name:c1s}.c.c1t,.c.c1u{animation-name:c1t}.c.c1u{animation-name:c1u}.c.c1v,.c.c1w{fill:var(--c3);animation-name:c1v}.c.c1w{animation-name:c1w}.c.c1x,.c.c1y,.c.c1z{fill:var(--c2);animation-name:c1x}.c.c1y,.c.c1z{animation-name:c1y}.c.c1z{animation-name:c1z}.c.c20{fill:var(--c1);animation-name:c20}.c.c21,.c.c22,.c.c23{fill:var(--c1);animation-name:c21}.c.c22,.c.c23{animation-name:c22}.c.c23{animation-name:c23}.c.c24{fill:var(--c2);animation-name:c24}.c.c25{fill:var(--c1);animation-name:c25}.c.c26{fill:var(--c2);animation-name:c26}.c.c27{fill:var(--c1);animation-name:c27}.c.c28,.c.c29,.c.c2a{fill:var(--c1);animation-name:c28}.c.c29,.c.c2a{animation-name:c29}.c.c2a{animation-name:c2a}.c.c2b,.c.c2c,.c.c2d{fill:var(--c1);animation-name:c2b}.c.c2c,.c.c2d{animation-name:c2c}.c.c2d{animation-name:c2d}.c.c2e{fill:var(--c2);animation-name:c2e}.c.c2f{fill:var(--c1);animation-name:c2f}.c.c2g{fill:var(--c3);animation-name:c2g}.c.c2h{fill:var(--c2);animation-name:c2h}.c.c2i{fill:var(--c1);animation-name:c2i}.c.c2j{fill:var(--c2);animation-name:c2j}.c.c2k{fill:var(--c1);animation-name:c2k}.c.c2l{fill:var(--c3);animation-name:c2l}.c.c2m{fill:var(--c4);animation-name:c2m}.c.c2n{fill:var(--c2);animation-name:c2n}.c.c2o,.c.c2p{fill:var(--c1);animation-name:c2o}.c.c2p{animation-name:c2p}.c.c2q{fill:var(--c2);animation-name:c2q}.c.c2r{fill:var(--c4);animation-name:c2r}.c.c2s{fill:var(--c3);animation-name:c2s}.c.c2t{fill:var(--c1);animation-name:c2t}.c.c2u,.c.c2v,.c.c2w{fill:var(--c2);animation-name:c2u}.c.c2v,.c.c2w{animation-name:c2v}.c.c2w{animation-name:c2w}.c.c2x,.c.c2y{fill:var(--c3);animation-name:c2x}.c.c2y{animation-name:c2y}.c.c2z{fill:var(--c2);animation-name:c2z}.c.c30,.c.c31,.c.c32{fill:var(--c2);animation-name:c30}.c.c31,.c.c32{animation-name:c31}.c.c32{animation-name:c32}.c.c33{fill:var(--c4);animation-name:c33}.c.c34{fill:var(--c3);animation-name:c34}.c.c35{fill:var(--c1);animation-name:c35}.c.c36{fill:var(--c2);animation-name:c36}.c.c37{fill:var(--c3);animation-name:c37}.c.c38{fill:var(--c2);animation-name:c38}.c.c39,.c.c3a{fill:var(--c3);animation-name:c39}.c.c3a{animation-name:c3a}.c.c3b,.c.c3c{fill:var(--c1);animation-name:c3b}.c.c3c{animation-name:c3c}.c.c3d{fill:var(--c2);animation-name:c3d}.c.c3e{fill:var(--c1);animation-name:c3e}.c.c3f{fill:var(--c2);animation-name:c3f}.c.c3g{fill:var(--c3);animation-name:c3g}.c.c3h{fill:var(--c1);animation-name:c3h}.c.c3i,.c.c3j,.c.c3k{fill:var(--c1);animation-name:c3i}.c.c3j,.c.c3k{animation-name:c3j}.c.c3k{animation-name:c3k}.c.c3l{fill:var(--c2);animation-name:c3l}.c.c3m{fill:var(--c3);animation-name:c3m}.c.c3n{fill:var(--c2);animation-name:c3n}.c.c3o{fill:var(--c1);animation-name:c3o}.c.c3p{fill:var(--c2);animation-name:c3p}.c.c3q{fill:var(--c3);animation-name:c3q}
-...
-
-[Message clipped]  View entire message
-
-
-
-
-
-          
-          
-
-
-          
-
-          
-          
-
-
-
-
-          
-
-  
-
-          
-          
