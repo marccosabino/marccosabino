@@ -1,6 +1,6 @@
-### Olá! Eu sou o Marco Sabino!
+### Olá!
 
-teste
+Meu nome é Marco Sabino, sou estudante de Análise e Desenvolvimento de Sistemas no CEUB. Sou apaixonado por tecnologia, especialmente na área se dados e desenvolvimento frontend. ☄️
 
 <div>
 <a href="https://github.com/marccosabino">
