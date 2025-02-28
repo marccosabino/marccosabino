@@ -10,14 +10,14 @@ Meu nome é Marco Sabino, sou estudante de Análise e Desenvolvimento de Sistema
 
 ### Estudando:
 <div>  
-    <img align="center" alt="Marco-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />    
     <img align="center" alt="Marco-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" alt="Marco-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="Marco-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Marco-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="Marco-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-###Snake Game
+### Snake Game
 <img src="https://raw.githubusercontent.com/marccosabino/marccosabino/output/snake.svg" alt="Snake animation" />
 
 ###
