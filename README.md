@@ -8,7 +8,7 @@ Meu nome é Marco Sabino, sou estudante de Análise e Desenvolvimento de Sistema
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marccosabino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Estudando:
+### Linguagens
 <div>  
     <img align="center" alt="Marco-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" alt="Marco-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -17,7 +17,7 @@ Meu nome é Marco Sabino, sou estudante de Análise e Desenvolvimento de Sistema
     <img align="center" alt="Marco-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-### Snake Game
+<!--SNAKE GAME-->
 <img src="https://raw.githubusercontent.com/marccosabino/marccosabino/output/snake.svg" alt="Snake animation" />
 
 ###
