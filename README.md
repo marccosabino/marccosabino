@@ -9,13 +9,10 @@ Meu nome é Marco Sabino, sou estudante de Análise e Desenvolvimento de Sistema
 </div>
 
 ### Linguagens
-<div>  
-    <img align="center" alt="Marco-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" alt="Marco-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" alt="Marco-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Marco-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="center" alt="Marco-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+ 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 <!--SNAKE GAME-->
 <img src="https://raw.githubusercontent.com/marccosabino/marccosabino/output/snake.svg" alt="Snake animation" />
