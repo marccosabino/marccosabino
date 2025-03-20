@@ -22,7 +22,6 @@ Olá, sou Marco Sabino, estudante de Análise e Desenvolvimento de Sistemas no C
 
 ###
 
-<br>
 **Obrigado por visitar meu perfil!**
 
 
