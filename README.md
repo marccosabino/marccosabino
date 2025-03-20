@@ -1,6 +1,6 @@
 ### Olá!
 
-Olá, sou o Marco Sabino, estudante de Análise e Desenvolvimento de Sistemas no CEUB. Sou apaixonado por tecnologia, com foco especial nas áreas de dados e desenvolvimento frontend. Sempre em busca de novos desafios, estou constantemente explorando novas ferramentas e técnicas para aprimorar minhas habilidades e criar soluções inovadoras. Meu objetivo é me tornar um profissional incrível, que busca não apenas resultados, mas também impactar positivamente o ambiente de trabalho e as pessoas ao meu redor. Quero ser alguém que traz inovação e desenvolvimento, contribuindo com um ambiente colaborativo e de crescimento constante para mim e meus colegas de trabalho. 
+Olá, sou o Marco Sabino, estudante de Análise e Desenvolvimento de Sistemas no CEUB. Sou apaixonado por tecnologia, com foco especial nas áreas de dados e desenvolvimento frontend. Sempre em busca de novos desafios, estou constantemente explorando novas ferramentas e técnicas para aprimorar minhas habilidades e criar soluções inovadoras. Meu objetivo é me tornar um profissional incrível, que busca não apenas resultados, mas também impactar positivamente o ambiente de trabalho e as pessoas ao meu redor. Quero ser alguém que traz inovação e desenvolvimento, contribuindo com um ambiente colaborativo e de crescimento constante para mim e meus colegas de trabalho. 🚀 
 
 <div>
 <a href="https://github.com/marccosabino">
