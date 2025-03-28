@@ -1,14 +1,15 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+Marco+Sabino!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+Marco+Sabino!"     alt="Typing SVG">
   </a>
 </p>
 
 <br>
+</div>
 <div align="center">
   <a href="https://github.com/marccosabino">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marccosabino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marccosabino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marccosabino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marccosabino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
   
