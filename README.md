@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Marco+Sabino!"        alt="Typing SVG">
   </a>
 </p>
+#
 </div>
 
 <!--DESCRIPTION-->
