@@ -9,6 +9,7 @@
 <!--DESCRIPTION-->
 <div align="center">
 🌱 Focado em aprender mais sobre Java e ciência de dados
+  <br>
 </div>
 
 <!--STATS-->
