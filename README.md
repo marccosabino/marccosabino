@@ -8,10 +8,13 @@
 
 <!--DESCRIPTION-->
 <div align="center">
-🌱 Focado em aprender mais sobre Java e ciência de dados
-    
   
-  💬 Sou entusiasta na área de dados
+🔭 Eu sou desenvolvedor mobile e atualmente trabalho com Java Native
+
+
+🌱 Também estou estudando Firebase e GoogleCloud
+
+💬 Sou entusiasta no desenvolvimento Java para Android
 </div>
 
 <!--STATS-->
