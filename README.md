@@ -6,6 +6,9 @@
 </p>
 </div>
 
+<!--DESCRIPTION-->
+🌱 Focado em aprender mais sobre Java e ciência de dados
+
 <!--STATS-->
 <div align="center">
   <a href="https://github.com/marccosabino">
