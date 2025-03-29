@@ -8,13 +8,7 @@
 
 <!--DESCRIPTION-->
 <div align="center">
-  
-🔭 Eu sou desenvolvedor mobile e atualmente trabalho com Java Native
-
-
-🌱 Também estou estudando Firebase e GoogleCloud
-
-💬 Sou entusiasta no desenvolvimento Java para Android
+     💬 Atualmente estou mergulhando em JavaScript, Java e Python
 </div>
 
 <!--STATS-->
