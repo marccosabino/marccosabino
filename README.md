@@ -8,7 +8,9 @@
 
 <!--DESCRIPTION-->
 <div align="center">
-     💬 Atualmente estou mergulhando em JavaScript, Java e Python
+  🌱 Sou um etusiasta na área de dados
+  
+  💬 Atualmente estou mergulhando em JavaScript, Java e Python
 </div>
 
 <!--STATS-->
