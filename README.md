@@ -38,6 +38,6 @@
 <img src="https://raw.githubusercontent.com/marccosabino/marccosabino/output/snake.svg" alt="Snake animation" />
 <br>
 
-###
+#
 
 **Obrigado por visitar meu perfil! Estou ansioso para me conectar e compartilhar conhecimentos com a comunidade! 🌱**
