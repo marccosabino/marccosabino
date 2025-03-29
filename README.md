@@ -34,4 +34,4 @@
 
 ###
 
-**Obrigado por visitar meu perfil! 🫡**
+**Obrigado por visitar meu perfil! Estou ansioso para me conectar e compartilhar conhecimentos com a comunidade! 🌱**
