@@ -12,7 +12,7 @@
   🌱 Sou um entusiasta na área de dados
   
   
-  💬 Atualmente estou mergulhando em JavaScript, Java e Python
+  💬 Atualmente estou mergulhando em Java e Python
   
 </div>
 
