@@ -6,5 +6,6 @@ Atualmente, estou focado em aprofundar meus conhecimentos em análise de dados, 
 
 ### 📊 Estatísticas do GitHub
 
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=marccosabino&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marccosabino&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marccosabino&theme=dark&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marccosabino&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
