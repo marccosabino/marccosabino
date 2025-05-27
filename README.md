@@ -1,6 +1,5 @@
 # Olá! 👋 Sou Marco!
 
-Bem-vindo(a ao meu cantinho no GitHub! Sou um(a) desenvolvedor(a) [mencione sua área de foco principal] apaixonado(a) por [mencione 1-2 coisas que te paixona em tecnologia, ex: "criar soluções inovadoras", "resolver problemas complexos", "aprender novas tecnologias"].
+Bem-vindo ao meu espaço no GitHub! Sou apaixonado por dados e inteligência artificial, e estou me dedicando para me tornar um profissional nessa área fascinante. Adoro o desafio de resolver problemas, criar soluções inovadoras e estou sempre em busca de aprender novas tecnologias.
 
-Atualmente, estou focado(a) em [mencione o que você está estudando/trabalhando no momento, ex: "aprimorar minhas habilidades em React e Node.js", "explorar o mundo da Inteligência Artificial", "construir APIs robustas com Python"].
-
+Atualmente, estou focado em aprofundar meus conhecimentos em análise de dados, machine learning e as mais recentes ferramentas e frameworks de IA.
