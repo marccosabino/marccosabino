@@ -1,16 +1,34 @@
-# Olá! 👋 Sou Marco!
+<!--TEXT-->
 
-Bem-vindo ao meu espaço no GitHub! Sou apaixonado por dados e inteligência artificial, e estou me dedicando para me tornar um profissional nessa área fascinante. Adoro o desafio de resolver problemas, criar soluções inovadoras e estou sempre em busca de aprender novas tecnologias.Atualmente, estou focado em aprofundar meus conhecimentos em análise de dados, machine learning e as mais recentes ferramentas e frameworks de IA.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+Marco+Sabino!"        alt="Typing SVG">
+  </a>
+
+</div>
+
+<!--DESCRIPTION-->
+  🛠 Atualmente estou aprofundando meus conhecimentos na aréa de dados e IA
+  </p>
+  
+</div>
+
+<!--STATS-->
+ <br>
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gb-Malaquias&show_icons=true&theme=dark&show)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gb-Malaquias&layout=compact&theme=dark&show)
+
+</div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marccosabino&theme=dark&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marccosabino&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
+<!--TECHNOLOGIES-->
 
-## 💻 Minhas Tecnologias
-
+<br>
+  
   [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,py,mysql,java)](https://skillicons.dev)<br/>
+<div/>
+ </p>
 
-## 📫 Entre em contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marccosabino/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.sabinosr@gmail.com)
+# 
+Fique à vontade para explorar meus repositórios e se conectar!
