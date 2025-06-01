@@ -4,6 +4,11 @@
 
 <p align="left">Bem-vindo ao meu espaço no GitHub! Sou apaixonado por dados e inteligência artificial, e estou me dedicando para me tornar um profissional nessa área fascinante. Adoro o desafio de resolver problemas, criar soluções inovadoras e estou sempre em busca de aprender novas tecnologias.</p>
 
+### Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/marccosabino)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.sabinosr@gmail.com)
+
 ##
 
 <div align="left">
