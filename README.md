@@ -9,7 +9,11 @@ Sou estudande de Análise de Desenvolvimento de Sistemas do 5° semestre no CEUB
 
 ***
 
+### 🧠 Linguagens
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,py,laravel,mysql,java)](https://skillicons.dev)
+
+### 🔧 Ferramentas
+[![SkillIcons](https://skillicons.dev/icons?i=github,vscode,azure,androidstudio)](https://skillicons.dev)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marccosabino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&show&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
