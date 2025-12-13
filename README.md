@@ -1,4 +1,4 @@
-<h2 align="left">Marco Sabino⚡</h2>
+<h2 align="left">Marco Sabino</h2>
 
 Bem-vindo ao meu espaço no GitHub!
 Sou estudande de Análise de Desenvolvimento de Sistemas do 5° semestre no CEUB (Centro de Ensino Unificado de Brasília), apaixonado por dados e inteligência artificial, e estou me dedicando para me tornar um profissional nessa área fascinante. Adoro o desafio de resolver problemas, criar soluções inovadoras e estou sempre em busca de aprender novas tecnologias.
