@@ -10,7 +10,7 @@ Sou formado em Análise de Desenvolvimento de Sistemas pelo CEUB (Centro de Ensi
 ***
 
 ### 🧠 Linguagens
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,py,laravel,mysql,java)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,py,laravel,mysql,java)](https://skillicons.dev)
 
 ### 🔧 Ferramentas
 [![SkillIcons](https://skillicons.dev/icons?i=github,vscode,azure,androidstudio)](https://skillicons.dev)
