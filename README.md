@@ -1,7 +1,7 @@
 <h2 align="left">Marco Sabino</h2>
 
 Bem-vindo ao meu espaço no GitHub!
-Sou estudande de Análise de Desenvolvimento de Sistemas do 5° semestre no CEUB (Centro de Ensino Unificado de Brasília), apaixonado por dados e inteligência artificial, e estou me dedicando para me tornar um profissional nessa área fascinante. Adoro o desafio de resolver problemas, criar soluções inovadoras e estou sempre em busca de aprender novas tecnologias.
+Sou formado em Análise de Desenvolvimento de Sistemas pelo CEUB (Centro de Ensino Unificado de Brasília), apaixonado por cibersegurança e inteligência artificial, e estou me dedicando para me tornar um profissional nessa área fascinante. Adoro o desafio de resolver problemas, criar soluções inovadoras e estou sempre em busca de aprender novas tecnologias.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marccosabino/)
